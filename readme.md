@@ -17,7 +17,7 @@
 
 - 🌱 Currently deepening my skills in GenAI product workflows, prompt engineering, and applied ML for business analytics.
 
-- 📫 Reach me at: **royabhijit893@gmail.com** | [LinkedIn](https://www.linkedin.com/in/abhijitroy893/)
+- 📫 Reach me at: **royabhijit893@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/abhijitroy893/)**
 
 ---
 
