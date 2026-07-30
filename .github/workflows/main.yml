@@ -18,7 +18,7 @@ jobs:
           github_user_name: AbhijitRoy893
           outputs: |
               dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?color_dots=#1a1a2e,#4a4e69,#7b2cbf,#9d4edd,#c77dff
+              dist/github-contribution-grid-snake-dark.svg?color_dots=1a1a1a,3a3a3a,5a5a5a,8a8a8a,c0c0c0
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
