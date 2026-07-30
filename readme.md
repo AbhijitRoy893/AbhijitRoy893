@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhijitRoy893&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=AbhijitRoy893&theme=default&hide_border=true" width="70%" />
 </p>
