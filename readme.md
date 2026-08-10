@@ -41,8 +41,11 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **GenAI / ML**
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Dev Tools**
@@ -61,16 +64,12 @@
 | 💰 [Personal Finance & Budget Planner](https://github.com/AbhijitRoy893/personal-finance-budget-planner) | A tool to track expenses, budgets, and financial goals |
 | 🤖 [GenAI Product Manager](https://github.com/AbhijitRoy893/genai-product-manager) | Exploring GenAI-driven workflows for product management tasks |
 | 📈 [Power BI Dashboard Project](https://github.com/AbhijitRoy893/powerbi-dashboard-project) | Interactive business intelligence dashboards for data-driven decisions |
-| 🍔 [Cloud Kitchen Project](https://github.com/AbhijitRoy893/cloud-kitchen-project) | Data/ops analysis for a cloud kitchen business model 
+| 🍔 [Cloud Kitchen Project](https://github.com/AbhijitRoy893/cloud-kitchen-project) | Data/ops analysis for a cloud kitchen business model |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhijitRoy893&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhijitRoy893&layout=compact&hide_border=true" width="48%" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbhijitRoy893&theme=default&hide_border=true" width="70%" />
 </p>
