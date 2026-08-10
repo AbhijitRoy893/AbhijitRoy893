@@ -56,12 +56,12 @@
 
 | Project | Description |
 |---|---|
+| 🎬 [ReelParse](https://github.com/AbhijitRoy893/ReelParse) | LLM-powered movie info extractor with Pydantic-validated structured output |
 | 🛍️ [Customer Shopping Behavior Analysis](https://github.com/AbhijitRoy893/customer-shopping-behavior-analysis) | Analyzed shopping patterns to uncover customer segments and purchasing trends |
 | 💰 [Personal Finance & Budget Planner](https://github.com/AbhijitRoy893/personal-finance-budget-planner) | A tool to track expenses, budgets, and financial goals |
 | 🤖 [GenAI Product Manager](https://github.com/AbhijitRoy893/genai-product-manager) | Exploring GenAI-driven workflows for product management tasks |
 | 📈 [Power BI Dashboard Project](https://github.com/AbhijitRoy893/powerbi-dashboard-project) | Interactive business intelligence dashboards for data-driven decisions |
-| 🍔 [Cloud Kitchen Project](https://github.com/AbhijitRoy893/cloud-kitchen-project) | Data/ops analysis for a cloud kitchen business model |
-| 🎵 [Spotify Clone](https://github.com/AbhijitRoy893/spotify-clone) | Full-stack music streaming app clone |
+| 🍔 [Cloud Kitchen Project](https://github.com/AbhijitRoy893/cloud-kitchen-project) | Data/ops analysis for a cloud kitchen business model 
 
 ---
 
@@ -71,7 +71,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhijitRoy893&show_icons=true&theme=default&hide_border=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbhijitRoy893&layout=compact&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbhijitRoy893&theme=default&hide_border=true" width="70%" />
 </p>
