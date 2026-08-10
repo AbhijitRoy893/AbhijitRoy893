@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+GenAI+Enthusiast;Turning+raw+data+into+actionable+insights;Building+AI-powered+analytics+tools" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijitRoy893&color=2F80ED&style=flat" alt="Profile views" />
-</p>
 
 ---
 
