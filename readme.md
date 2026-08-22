@@ -1,21 +1,23 @@
 <h1 align="center">Hi, I'm Abhijit Roy 👋</h1>
-<h3 align="center">Data Analyst | Turning data into decisions with Analytics + GenAI</h3>
+<h3 align="center">Aspiring GenAI Engineer | LLMs • RAG • LangChain • AI Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+GenAI+Enthusiast;Turning+raw+data+into+actionable+insights;Building+AI-powered+analytics+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+GenAI+Engineer+%7C+AI+Enthusiast;Building+LLM-powered+applications;RAG+%7C+LangChain+%7C+Prompt+Engineering;AI+%2B+Data+%7C+Turning+ideas+into+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 📊 I'm a **Data Analyst** who blends traditional analytics (SQL, Power BI, Python) with **Generative AI** to build smarter, faster insights.
+- 🤖 I'm an **AI/GenAI enthusiast and aspiring GenAI Engineer** with a strong foundation in **Python, SQL, Data Analytics, and Machine Learning**.
 
-- 🤖 Exploring how LLMs and GenAI can automate reporting, enhance dashboards, and act as AI-powered product/analytics assistants.
+- 🧠 Building practical **LLM-powered applications** using **Generative AI, LangChain, RAG, Prompt Engineering, embeddings, and vector databases**.
 
-- 🧠 Interested in the intersection of **data storytelling** and **AI-driven decision making**.
+- 📊 Experienced in using **Python, SQL, Power BI, and Excel** to transform data into meaningful insights and support data-driven decision making.
 
-- 🌱 Currently deepening my skills in GenAI product workflows, prompt engineering, and applied ML for business analytics.
+- 🚀 Interested in building **AI-powered assistants, document intelligence systems, RAG applications, and intelligent analytics solutions** that solve real-world business problems.
+
+- 🌱 Currently deepening my expertise in **LLM application development, AI agents, RAG pipelines, applied ML, and GenAI product workflows**.
 
 - 📫 Reach me at: **royabhijit893@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/abhijitroy893/)**
 
@@ -34,21 +36,33 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Data & BI Tools**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**GenAI / LLM**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+
+**RAG / AI Engineering**
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat)
+![Chroma](https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**ML / Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Data & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**GenAI / ML**
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Dev Tools**
+**DevOps & Development**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -56,9 +70,9 @@
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description |
 |---|---|
+| 📖 [Marginalia — Chat with your PDF](https://github.com/AbhijitRoy893/Marginalia-RAG) | RAG chatbot that answers questions from uploaded PDFs using LangChain, ChromaDB, and Mistral AI, with per-answer source citations |
 | 🎬 [ReelParse](https://github.com/AbhijitRoy893/ReelParse) | LLM-powered movie info extractor with Pydantic-validated structured output |
 | 🛍️ [Customer Shopping Behavior Analysis](https://github.com/AbhijitRoy893/customer-shopping-behavior-analysis) | Analyzed shopping patterns to uncover customer segments and purchasing trends |
 | 💰 [Personal Finance & Budget Planner](https://github.com/AbhijitRoy893/personal-finance-budget-planner) | A tool to track expenses, budgets, and financial goals |
