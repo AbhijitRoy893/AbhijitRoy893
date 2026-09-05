@@ -72,6 +72,7 @@
 ### 📌 Featured Projects
 | Project | Description |
 |---|---|
+| 🏙️ [CityPilot](https://github.com/AbhijitRoy893/city_agent) | Tool-calling AI agent (LangChain + Gemini) that decides when to check live weather or search local news for any city, in a custom-designed Streamlit UI |
 | 📖 [Marginalia — Chat with your PDF](https://github.com/AbhijitRoy893/Marginalia-RAG) | RAG chatbot that answers questions from uploaded PDFs using LangChain, ChromaDB, and Mistral AI, with per-answer source citations |
 | 🎬 [ReelParse](https://github.com/AbhijitRoy893/ReelParse) | LLM-powered movie info extractor with Pydantic-validated structured output |
 | 🛍️ [Customer Shopping Behavior Analysis](https://github.com/AbhijitRoy893/customer-shopping-behavior-analysis) | Analyzed shopping patterns to uncover customer segments and purchasing trends |
