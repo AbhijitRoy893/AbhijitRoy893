@@ -9,17 +9,12 @@
 
 ### 🔍 About Me
 
-- 🤖 I'm an **AI/GenAI enthusiast and aspiring GenAI Engineer** with a strong foundation in **Python, SQL, Data Analytics, and Machine Learning**.
-
-- 🧠 Building practical **LLM-powered applications** using **Generative AI, LangChain, RAG, Prompt Engineering, embeddings, and vector databases**.
-
-- 📊 Experienced in using **Python, SQL, Power BI, and Excel** to transform data into meaningful insights and support data-driven decision making.
-
-- 🚀 Interested in building **AI-powered assistants, document intelligence systems, RAG applications, and intelligent analytics solutions** that solve real-world business problems.
-
-- 🌱 Currently deepening my expertise in **LLM application development, AI agents, RAG pipelines, applied ML, and GenAI product workflows**.
-
-- 📫 Reach me at: **royabhijit893@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/abhijitroy893/)**
+- 🤖 AI/GenAI enthusiast focused on building practical **LLM-powered applications**.
+- 🧠 Working with **Python, LangChain, RAG, embeddings, vector databases, prompt engineering, and AI agents**.
+- 📊 Strong foundation in **SQL, Machine Learning, Data Analytics, Power BI, and Excel**.
+- 🚀 Interested in **AI assistants, document intelligence, RAG systems, and intelligent analytics solutions**.
+- 🌱 Currently deepening my skills in **LLM application development, AI agents, RAG pipelines, and applied ML**.
+- 📫 Reach me at **royabhijit893@gmail.com** | [LinkedIn](...)
 
 ---
 
