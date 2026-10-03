@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Abhijit Roy 👋</h1>
-<h3 align="center">Aspiring GenAI Engineer | LLMs • RAG • LangChain • AI Applications</h3>
+<h3 align="center">Aspiring GenAI Engineer | LLMs • RAG • AI Agents • LangGraph • FastAPI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+GenAI+Engineer+%7C+AI+Enthusiast;Building+LLM-powered+applications;RAG+%7C+LangChain+%7C+Prompt+Engineering;AI+%2B+Data+%7C+Turning+ideas+into+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Aspiring+GenAI+Engineer+%7C+AI+Enthusiast;Building+LLM-powered+applications;RAG+%7C+LangChain+%7C+LangGraph+%7C+AI+Agents;AI+%2B+Data+%7C+Turning+ideas+into+solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,6 +20,8 @@
 - 🌱 Currently deepening my expertise in **LLM application development, AI agents, RAG pipelines, applied ML, and GenAI product workflows**.
 
 - 🤝 Building **tool-calling AI agents** that reason about which action to take and act autonomously, rather than following hardcoded logic.
+
+- 🔗 Built a **full-stack multi-agent travel planner** with **LangGraph, FastAPI, PostgreSQL and Streamlit**, with live agent progress streamed to the UI.
 
 - 📫 Reach me at: **royabhijit893@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/abhijitroy893/)**
 
@@ -42,7 +44,10 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-Search_API-6C5CE7?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
@@ -50,6 +55,7 @@
 **RAG / AI Engineering**
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat)
 ![Chroma](https://img.shields.io/badge/ChromaDB-Vector_Database-FF6B6B?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
@@ -71,9 +77,11 @@
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Projects
+
 | Project | Description |
 |---|---|
+| ✈️ [PlanMyTrip AI](https://github.com/AbhijitRoy893/PlanMyTrip-AI) | Multi-agent travel planner: LangGraph agents, FastAPI backend, PostgreSQL persistence and a live-streaming Streamlit UI |
 | 🏙️ [CityPilot](https://github.com/AbhijitRoy893/city_agent) | Tool-calling AI agent (LangChain + Gemini) that decides when to check live weather or search local news for any city, in a custom-designed Streamlit UI |
 | 📖 [Marginalia — Chat with your PDF](https://github.com/AbhijitRoy893/Marginalia-RAG) | RAG chatbot that answers questions from uploaded PDFs using LangChain, ChromaDB, and Mistral AI, with per-answer source citations |
 | 🎬 [ReelParse](https://github.com/AbhijitRoy893/ReelParse) | LLM-powered movie info extractor with Pydantic-validated structured output |
